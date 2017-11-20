@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1077606237707",
+    "firebase_url": "https://around-a6dac.firebaseio.com",
+    "project_id": "around-a6dac",
+    "storage_bucket": "around-a6dac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077606237707:android:d8b34e8ae2e97afe",
+        "android_client_info": {
+          "package_name": "site.shawnxxy.eventreporter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077606237707-7p5pc0tjf4ap7s0adnm38k82pgtfah8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "site.shawnxxy.eventreporter",
+            "certificate_hash": "b9f50fd4976b1cac4966286d805ac214aa436aea"
+          }
+        },
+        {
+          "client_id": "1077606237707-2rncf84bb9hhincj029aipe85l37kc1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "site.shawnxxy.eventreporter",
+            "certificate_hash": "341f415cb8c52a466daf92ec98685f37d53f8e59"
+          }
+        },
+        {
+          "client_id": "1077606237707-98dghqgavur4oeb448t7hhdt9f2uqo0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIcypAkBl8mlKuVztlXHhrarKs8z9Tktg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077606237707-98dghqgavur4oeb448t7hhdt9f2uqo0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

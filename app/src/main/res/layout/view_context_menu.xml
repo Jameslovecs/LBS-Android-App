@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:id="@+id/btnSharePhoto"
+        style="@style/ContextMenuButton"
+        android:text="@string/share" />
+
+    <Button
+        android:id="@+id/btnRepost"
+        style="@style/ContextMenuButton"
+        android:text="@string/repost" />
+
+    <Button
+        android:id="@+id/btnCopyShareUrl"
+        style="@style/ContextMenuButton"
+        android:text="@string/copyurl" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#eeeeee" />
+
+    <Button
+        android:id="@+id/btnReport"
+        style="@style/ContextMenuButton"
+        android:text="@string/report" />
+
+    <Button
+        android:id="@+id/btnCancel"
+        style="@style/ContextMenuButton"
+        android:text="CANCEL" />
+
+
+
+</merge>
+
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent">-->
+
+<!--</LinearLayout>-->
