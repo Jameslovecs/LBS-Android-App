@@ -11,4 +11,6 @@
 # Screenshot
 <img src="https://github.com/Jameslovecs/Mobile-Development-LBS-Android-App/blob/master/app1.png"/>
 <img src="https://github.com/Jameslovecs/Mobile-Development-LBS-Android-App/blob/master/app2.png"/>
+<img src="https://github.com/Jameslovecs/Mobile-Development-LBS-Android-App/blob/master/app3.png"/>
+<img src="https://github.com/Jameslovecs/Mobile-Development-LBS-Android-App/blob/master/app4.png"/>
 
